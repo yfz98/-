@@ -1,0 +1,109 @@
+/* pages/Personal/Personal.wxss */
+pages{
+  height: 100%;
+}
+.body{
+  height: 100%;
+  background: rgb(237, 237, 237);
+}
+.touxiang{
+  width: 200rpx;
+  height: 200rpx;
+  background: aqua;
+  margin: 50rpx 50rpx;
+  border-radius: 10rpx;
+  float: left;
+}
+.title{
+  height: 300rpx;
+  background: rgb(255, 255, 255);
+  border-radius: 5%;
+}
+.t1{
+  width: 100rpx;
+  margin: 50rpx 0;
+  /* height: 100rpx; */
+}
+.title_right{
+  width:200rpx;
+  height: 200rpx;
+  float: left;
+  /* margin: 50rpx 50rpx; */
+}
+.userSetting{
+  height: 120rpx;
+  background: rgb(255, 255, 255);
+  margin: 20rpx 0;
+  border-radius: 5%;
+
+    /*flex 伸缩模型主轴为X轴 */
+    display: flex;
+    /* 修改主轴为Y轴 */
+  flex-direction: column;
+  /* 侧轴（X轴）元素居中 */
+  align-items: center;
+  /* 主轴(Y轴)元素居中 */
+  justify-content: center;
+}
+.dingDan{
+  height: 120rpx;
+  background: rgb(255, 255, 255);
+  margin: 20rpx 0;
+  border-radius: 5%;
+
+    /*flex 伸缩模型主轴为X轴 */
+    display: flex;
+    /* 修改主轴为Y轴 */
+  flex-direction: column;
+  /* 侧轴（X轴）元素居中 */
+  align-items: center;
+  /* 主轴(Y轴)元素居中 */
+  justify-content: center;
+}
+.dingdanJilu{
+  height: 120rpx;
+  background: rgb(255, 255, 255);
+  margin: 20rpx 0;
+  border-radius: 5%;
+
+    /*flex 伸缩模型主轴为X轴 */
+    display: flex;
+    /* 修改主轴为Y轴 */
+  flex-direction: column;
+  /* 侧轴（X轴）元素居中 */
+  align-items: center;
+  /* 主轴(Y轴)元素居中 */
+  justify-content: center;
+}
+.shoucang{
+  height: 120rpx;
+  background: rgb(255, 255, 255);
+  margin: 20rpx 0;
+  border-radius: 5%;
+
+    /*flex 伸缩模型主轴为X轴 */
+    display: flex;
+    /* 修改主轴为Y轴 */
+  flex-direction: column;
+  /* 侧轴（X轴）元素居中 */
+  align-items: center;
+  /* 主轴(Y轴)元素居中 */
+  justify-content: center;
+
+  
+}
+.ruzhu{
+  height: 120rpx;
+  background: rgb(255, 255, 255);
+  margin: 20rpx 0;
+  border-radius: 5%;
+
+    /*flex 伸缩模型主轴为X轴 */
+    display: flex;
+    /* 修改主轴为Y轴 */
+  flex-direction: column;
+  /* 侧轴（X轴）元素居中 */
+  align-items: center;
+  /* 主轴(Y轴)元素居中 */
+  justify-content: center;
+}

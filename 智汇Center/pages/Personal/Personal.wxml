@@ -1,0 +1,38 @@
+<!-- <view class="">
+  <view>
+   用户名：
+   <input type="text" bindinput="username"/>
+  </view>
+  <view>
+    密码：
+    <input type="text" bindinput="password" password="true"/>
+  </view>
+  <button bindtap="login">登录</button>
+</view> -->
+
+<view class="body">
+  <view class="title">
+    <image class="touxiang" src="">获取用户信息</image>
+    <view class="title_right">
+      <view class="t1">用户名</view>
+      <view class="t1">账号</view>
+    </view>
+  </view>
+  <view class="userSetting">
+    <text>用户设置</text>
+  </view>
+  <view class="bottom">
+    <view class="dingDan">
+      <text>订单</text>
+    </view>
+    <view class="dingdanJilu">
+      <text>订单记录</text>
+    </view>
+    <view class="shoucang">
+      <text>收藏</text>
+    </view>
+    <view class="ruzhu">
+      <text>入驻</text>
+    </view>
+  </view>
+</view>

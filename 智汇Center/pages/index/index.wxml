@@ -1,0 +1,17 @@
+<view class="search_input">
+  <navigator url="/pages/search/search" open-type="navigate">
+    搜索
+  </navigator>
+</view>  
+<view class="index_swiper">
+    <swiper indicator-dots circular  autoplay interval="2000">
+      <swiper-item><image class="img1" mode="widthFix" src="https://s3.ax1x.com/2020/12/02/DIlpgU.jpg" /></swiper-item>
+      <swiper-item><image class="img2"  src="https://s3.ax1x.com/2020/12/02/DIldKg.jpg" /></swiper-item>
+      <swiper-item><image class="img3"  src="https://s3.ax1x.com/2020/12/02/DIloI1.jpg" /></swiper-item>
+    </swiper>
+</view>
+<view class="ts">
+  <!-- <view class="ts_1">教员中心</view>
+  <view class="ts_2">学员中心</view>   -->
+</view>
+  

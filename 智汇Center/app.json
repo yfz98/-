@@ -1,0 +1,45 @@
+{
+  "pages":[
+    "pages/Personal/Personal",
+    "pages/index/index",
+    "pages/dynamic/dynamic",
+    "pages/search/search",
+    "pages/loginsuccess/loginsuccess",
+    "pages/loginfail/loginfail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#4b6cbb",
+    "navigationBarTitleText": "智汇Center",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "",
+    "backgroundColor": "",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "icon/book.png",
+      "selectedIconPath": "icon/book (1).png"
+    },
+      {
+      "pagePath": "pages/dynamic/dynamic",
+      "text": "动态",
+      "iconPath": "icon/动态 (2).png",
+      "selectedIconPath": "icon/动态 (1).png"
+    },
+      {
+      "pagePath": "pages/Personal/Personal",
+      "text": "个人中心",
+      "iconPath": "icon/个人中心.png",
+      "selectedIconPath": "icon/个人中心 (1).png"
+    }
+  ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
